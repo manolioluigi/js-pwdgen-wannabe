@@ -1,0 +1,5 @@
+1) Chiedere all'utente il suo nome (e salvarlo in una variabile)
+2) Chiedere all'utente il suo cognome (e salvarlo in una variabile)
+3) Chiedere all'utente il suo colore preferito (e salvarlo in una variabile)
+4) Unire le 3 variabili ricevute in input con l'aggiunta di un 21 finale in un unica variabile
+5) Stampare la variabile nell'html
